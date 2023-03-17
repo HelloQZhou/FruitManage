@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pro15-fruit2.0-mvc-dispatcherServlet:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/pro15_fruit2_0_mvc_dispatcherServlet_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="pro15-fruit2.0-mvc-dispatcherServlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="javaee-facet-classes" facet="pro15-fruit2.0-mvc-dispatcherServlet/web/Web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="thymeleaf_lib" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

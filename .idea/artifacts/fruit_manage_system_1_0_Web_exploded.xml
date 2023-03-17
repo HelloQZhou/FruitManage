@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="fruit_manage_system_1.0:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/fruit_manage_system_1_0_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="fruit_manage_system_1.0/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="fruit_manage_system_1.0" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="thymeleaf_lib" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

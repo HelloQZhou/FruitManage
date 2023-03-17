@@ -1,0 +1,49 @@
+尚硅谷水果管理系统
+
+几个主页面
+
+- 登录主页面 index.html
+
+![image-20230228125934859](D:/app/typora/%E6%96%87%E6%A1%A3%E5%9B%BE%E7%89%87%E9%BB%98%E8%AE%A4%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%9D%80/image-20230228125934859.png)
+
+- 查询页面  
+
+![image-20230317084259905](D:/app/typora/%E6%96%87%E6%A1%A3%E5%9B%BE%E7%89%87%E9%BB%98%E8%AE%A4%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%9D%80/image-20230317084259905.png)
+
+- 编辑库存信息页面 edit.html
+
+![image-20230317084452978](D:/app/typora/%E6%96%87%E6%A1%A3%E5%9B%BE%E7%89%87%E9%BB%98%E8%AE%A4%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%9D%80/image-20230317084452978.png)
+
+- 新增库存信息页面 add.html
+
+![image-20230317084733652](D:/app/typora/%E6%96%87%E6%A1%A3%E5%9B%BE%E7%89%87%E9%BB%98%E8%AE%A4%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%9D%80/image-20230317084733652.png)
+
+
+
+
+
+1.0    http://localhost:8080/index
+
+![01.mvc01](D:/app/typora/%E6%96%87%E6%A1%A3%E5%9B%BE%E7%89%87%E9%BB%98%E8%AE%A4%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%9D%80/01.mvc01.png)
+
+
+
+
+
+2.0 功能合并成为一个servlet 使用case定位寻找
+
+![02.mvc02](D:/app/typora/%E6%96%87%E6%A1%A3%E5%9B%BE%E7%89%87%E9%BB%98%E8%AE%A4%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%9D%80/02.mvc02.png)
+
+3.0  http://localhost:8080/fruit.do
+
+<img src="D:/app/typora/%E6%96%87%E6%A1%A3%E5%9B%BE%E7%89%87%E9%BB%98%E8%AE%A4%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%9D%80/03.MVC03.png" alt="03.MVC03" style="zoom:50%;" />
+
+
+
+4.0
+
+<img src="D:/app/typora/%E6%96%87%E6%A1%A3%E5%9B%BE%E7%89%87%E9%BB%98%E8%AE%A4%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%9D%80/01.MVC04.png" alt="01.MVC04" style="zoom:50%;" />
+
+添加Fliter 
+
+<img src="D:/app/typora/%E6%96%87%E6%A1%A3%E5%9B%BE%E7%89%87%E9%BB%98%E8%AE%A4%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%9D%80/02.CharacterEncodingFilter.png" alt="02.CharacterEncodingFilter" style="zoom:50%;" />

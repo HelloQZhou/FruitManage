@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fruit_manage_system_1.0/fruit_manage_system_1.0.iml" filepath="$PROJECT_DIR$/fruit_manage_system_1.0/fruit_manage_system_1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro15-fruit2.0-mvc-dispatcherServlet/pro15-fruit2.0-mvc-dispatcherServlet.iml" filepath="$PROJECT_DIR$/pro15-fruit2.0-mvc-dispatcherServlet/pro15-fruit2.0-mvc-dispatcherServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/水果管理系统.iml" filepath="$PROJECT_DIR$/.idea/水果管理系统.iml" />
+    </modules>
+  </component>
+</project>
